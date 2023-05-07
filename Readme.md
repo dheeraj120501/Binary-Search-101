@@ -30,4 +30,4 @@ To run any file use the make tool just do `make sno` where sno is the Serial Num
 |  14  | Search in a bitonic array                       |
 |  15  | Search in a row-wise column-wise sorted matrix  |
 |  16  | Find element in sorted array that appeared once |
-|  17  | Allocate minimum number od pages                |
+|  17  | Allocate minimum number of pages                |
