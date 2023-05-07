@@ -3,7 +3,7 @@ using namespace std;
 
 // Time Complexity: O(log n)
 // Space Complexity: O(1)
-int bs(int* arr, int n, int k) {
+int solution(int* arr, int n, int k) {
 
     int l = 0, h = n-1;
 
@@ -27,7 +27,7 @@ int main() {
     int arr[] = {1,2,3,4,5,6,7,8,9};
     int k = 10;
 
-    cout<<bs(arr, sizeof(arr)/sizeof(arr[0]), k);
+    cout<<solution(arr, sizeof(arr)/sizeof(arr[0]), k);
 
    return 0;   
 }
