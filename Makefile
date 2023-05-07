@@ -10,4 +10,8 @@
 	g++ 02.cpp -o 02.exe
 	./02.exe
 
-.PHONY: 0 1 2
+3:
+	g++ 03.cpp -o 03.exe
+	./03.exe
+
+.PHONY: 0 1 2 3
