@@ -14,7 +14,8 @@ To run any file use the make tool just do `make sno` where sno is the Serial Num
 
 | S/No | Problem                                         |
 | :--: | ----------------------------------------------- |
-|  1   | Binary Search                                   |
+|  0   | Binary Search                                   |
+|  1   | Binary Search on Reverse Sorted Array           |
 |  2   | Order Agnostic BS                               |
 |  3   | 1st and Last occurance of an element            |
 |  4   | Count of element in sorted array                |
